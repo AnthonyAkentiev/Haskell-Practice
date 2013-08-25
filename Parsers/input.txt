@@ -1,0 +1,6 @@
+65572 /home/adept/photos/raw-to-burn/dir1
+68268 /home/adept/photos/raw-to-burn/dir2
+53372 /home/adept/photos/raw-to-burn/dir3
+713124  /home/adept/photos/raw-to-burn/dir4
+437952  /home/adept/photos/raw-to-burn/dir5
+
